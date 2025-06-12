@@ -1,0 +1,60 @@
+[[ROOT_julia]]
+arch = "x86_64"
+git-tree-sha1 = "476835880ee659ac8b27304b606f64669f6b7de8"
+julia_version = "1.10.0"
+libc = "glibc"
+os = "linux"
+
+    [[ROOT_julia.download]]
+    sha256 = "7cce92c9ca06425eadb48412b99c4a16c4ed92ff26aff50771ccc143f0974d49"
+    url = "https://github.com/grasph/ROOT_julia_jll.jl/releases/download/ROOT_julia-v1.0.0+0/ROOT_julia.v1.0.0.x86_64-linux-gnu-julia_version+1.10.0.tar.gz"
+[[ROOT_julia]]
+arch = "x86_64"
+git-tree-sha1 = "4882857500f6fb85435d193abaed2c8ca04d69fb"
+julia_version = "1.11.1"
+libc = "glibc"
+os = "linux"
+
+    [[ROOT_julia.download]]
+    sha256 = "419422d0d3926d8ed1d1c24e70118153987569d5388c0d8b185d3e13fab536ae"
+    url = "https://github.com/grasph/ROOT_julia_jll.jl/releases/download/ROOT_julia-v1.0.0+0/ROOT_julia.v1.0.0.x86_64-linux-gnu-julia_version+1.11.1.tar.gz"
+[[ROOT_julia]]
+arch = "x86_64"
+git-tree-sha1 = "a992dd52cf163bd8e6e3c73a17808a5f79c06781"
+julia_version = "1.6.3"
+libc = "glibc"
+os = "linux"
+
+    [[ROOT_julia.download]]
+    sha256 = "0569b8da984b8e215595fcc1e762bc4b6dd7284d5a747e5f125ad1b01ffeda73"
+    url = "https://github.com/grasph/ROOT_julia_jll.jl/releases/download/ROOT_julia-v1.0.0+0/ROOT_julia.v1.0.0.x86_64-linux-gnu-julia_version+1.6.3.tar.gz"
+[[ROOT_julia]]
+arch = "x86_64"
+git-tree-sha1 = "7771283ca5db5edf4e49f86a02e8f6e0bcc3b4d6"
+julia_version = "1.7.0"
+libc = "glibc"
+os = "linux"
+
+    [[ROOT_julia.download]]
+    sha256 = "a56429accc67ab8459911709670858ac61f55ce16be29ee15a826cf38c2460a2"
+    url = "https://github.com/grasph/ROOT_julia_jll.jl/releases/download/ROOT_julia-v1.0.0+0/ROOT_julia.v1.0.0.x86_64-linux-gnu-julia_version+1.7.0.tar.gz"
+[[ROOT_julia]]
+arch = "x86_64"
+git-tree-sha1 = "65a04ac64f6c836ed2c7d7d65ac87e02f50dffa2"
+julia_version = "1.8.2"
+libc = "glibc"
+os = "linux"
+
+    [[ROOT_julia.download]]
+    sha256 = "d2a4ae0e2f621ea917916bdfde630e3fa5fe91e76250ecf8f11f557c373222ac"
+    url = "https://github.com/grasph/ROOT_julia_jll.jl/releases/download/ROOT_julia-v1.0.0+0/ROOT_julia.v1.0.0.x86_64-linux-gnu-julia_version+1.8.2.tar.gz"
+[[ROOT_julia]]
+arch = "x86_64"
+git-tree-sha1 = "0e301c8a73be0355f5fd20978ab18b0049994da1"
+julia_version = "1.9.0"
+libc = "glibc"
+os = "linux"
+
+    [[ROOT_julia.download]]
+    sha256 = "0481716f4c7fe3e55cb4ac95fd7aa7c9edd14dcfb17cd57f00d52584d528a267"
+    url = "https://github.com/grasph/ROOT_julia_jll.jl/releases/download/ROOT_julia-v1.0.0+0/ROOT_julia.v1.0.0.x86_64-linux-gnu-julia_version+1.9.0.tar.gz"
